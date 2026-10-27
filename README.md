@@ -20,6 +20,9 @@ Hệ thống quản lý cấp phát quân trang, ký nhận điện tử và đ�
 ### 💻 2. Cài đặt trên máy tính Windows (Máy chủ kho / Máy trạm)
 👉 **[Tải bộ cài đặt Windows (CaiDat_SoQuanTrang375_Setup.exe)](https://github.com/hvinh1608/kho-quan-trang/releases/download/v1.0.0/CaiDat_SoQuanTrang375_Setup.exe)**
 
+- ✨ **Tính năng mới:** Hỗ trợ đầy đủ **Xuất & Nhập tệp Excel (.xlsx)** danh sách quân nhân kèm cỡ số trang bị và bảng tổng hợp kiểm kê tồn kho theo quy chuẩn Mẫu 12.
+- 📦 Cài đặt 1-Click độc lập, không cần cài đặt Node.js hay gõ lệnh.
+
 ---
 
 *Đơn vị: Sư đoàn Phòng không 375 - Quân đội nhân dân Việt Nam*
