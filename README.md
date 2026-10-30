@@ -20,7 +20,7 @@ Hệ thống quản lý cấp phát quân trang, ký nhận điện tử và đ�
 ### 💻 2. Cài đặt trên máy tính Windows (Máy chủ kho / Máy trạm)
 👉 **[Tải bộ cài đặt Windows (CaiDat_SoQuanTrang375_Setup.exe)](https://github.com/hvinh1608/kho-quan-trang/releases/download/v1.0.0/CaiDat_SoQuanTrang375_Setup.exe)**
 
-- ✨ **Tính năng mới:** Hỗ trợ đầy đủ **Xuất & Nhập tệp Excel (.xlsx)** danh sách quân nhân kèm cỡ số trang bị và bảng tổng hợp kiểm kê tồn kho theo quy chuẩn Mẫu 12.
+- ✨ **Tính năng mới:** Tích hợp **Trung tâm Sao lưu & Phục hồi dữ liệu 1-Click** (SQLite VACUUM INTO + nén Gzip), chuẩn hóa nhập liệu Excel, hỗ trợ đầy đủ **Xuất & Nhập tệp Excel (.xlsx)** danh sách quân nhân kèm cỡ số trang bị và bảng tổng hợp kiểm kê tồn kho theo quy chuẩn Mẫu 12.
 - 📦 Cài đặt 1-Click độc lập, không cần cài đặt Node.js hay gõ lệnh.
 
 ---
